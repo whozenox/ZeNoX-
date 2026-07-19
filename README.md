@@ -82,6 +82,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 <div align="center">
 
-**Developed by [Anon4You](https://github.com/whozenox)**
+**Developed by [ZeNoX](https://github.com/whozenox)**
 
 </div>
