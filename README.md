@@ -40,7 +40,7 @@ pkg install python -y
 
 **2. Clone the Repository**
 ```bash
-git clone https://github.com/whozenox/x-bomber.git
+git clone https://github.com/whozenox/XBomber.git
 ```
 
 **3. Navigate to Directory & Install Dependencies**
@@ -76,7 +76,7 @@ python xbomber.py
 
 ## 🛡️ License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full details.
+This project is licensed under the **MIT License**. file for full details.
 
 ---
 
