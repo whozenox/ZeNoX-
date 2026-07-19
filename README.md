@@ -45,7 +45,7 @@ git clone git@github.com:whozenox/ZeNoX-.git
 
 **3. Navigate to Directory & Install Dependencies**
 ```bash
-cd XBomber
+cd ZeNoX-
 pip install -r requirements.txt
 ```
 
