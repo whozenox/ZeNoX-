@@ -40,7 +40,7 @@ pkg install python -y
 
 **2. Clone the Repository**
 ```bash
-git clone https://github.com/Anon4You/XBomber.git
+git clone https://github.com/whozenox/x-bomber.git
 ```
 
 **3. Navigate to Directory & Install Dependencies**
@@ -82,6 +82,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 <div align="center">
 
-**Developed by [Anon4You](https://github.com/Anon4You)**
+**Developed by [Anon4You](https://github.com/whozenox)**
 
 </div>
