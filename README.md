@@ -40,7 +40,7 @@ pkg install python -y
 
 **2. Clone the Repository**
 ```bash
-git clone https://github.com/whozenox/XBomber.git
+git clone git@github.com:whozenox/ZeNoX-.git
 ```
 
 **3. Navigate to Directory & Install Dependencies**
